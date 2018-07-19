@@ -25,7 +25,7 @@ int[] a = new int[]{3,2,4,5,1};
         for( j = 0; j<5; j++)
         {
             System.out.print(ab[i][j]);
-            System.out.print("");
+            System.out.print('\t');
         }
             System.out.println();
 }
