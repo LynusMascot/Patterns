@@ -1,4 +1,4 @@
-//Author: Rohit Goswami , lynus.mascot@gmil.com
+//Author: Rohit Goswami , lynus.mascot@gmail.com
 
 /* 
 input : a[5]= {3,2,4,5,1}
