@@ -1,4 +1,5 @@
-//Author: Rohit Goswami , lynus.mascot@gmail.com
+//Author: Rohit Goswami & Ritik Varshney
+// email:  lynus.mascot@gmail.com
 
 /* 
 input : a[5]= {3,2,4,5,1}
